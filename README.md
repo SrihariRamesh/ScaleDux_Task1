@@ -10,8 +10,6 @@ The primary goal of this project is to develop a "Startup Health Score," a compo
 
 ### Methodology
 
-The model was developed in a Google Colab notebook, following a systematic approach to ensure fairness and logical consistency in the evaluation.
-
 **1. Data Preprocessing**
 
 Effective data preprocessing was crucial for creating a fair comparison between startups.
